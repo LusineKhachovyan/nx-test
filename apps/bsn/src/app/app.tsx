@@ -7,7 +7,7 @@ export function App() {
   return (
     <>
       {/* <NxWelcome title="bsn" /> */}
-      <h1>BSN app</h1>
+      <h1>BSN app change</h1>
       <Dashboard title="from bsn" />
     </>
   );
