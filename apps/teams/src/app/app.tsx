@@ -7,7 +7,7 @@ export function App() {
   return (
     <>
       {/* <NxWelcome title="teams" /> */}
-      <h1>TEAMS app</h1>
+      <h1>TEAMS app 456</h1>
        <Dashboard title="from teams" />
     </>
   );
